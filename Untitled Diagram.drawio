@@ -1,6 +1,6 @@
-<mxfile modified="2023-10-06T10:52:26.526Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="dw352fwkfxXBtEhKHSle" version="22.0.3" type="github">
+<mxfile modified="2023-10-06T11:02:25.725Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="xfVCxtalgzM2WHIMsMAx" version="22.0.3" type="github">
   <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
-    <mxGraphModel dx="558" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="791" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,6 +105,15 @@
         </mxCell>
         <mxCell id="NhcDqB4aRzfar5cejF2m-61" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;VipNet coordinator HW1000&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NhcDqB4aRzfar5cejF2m-62" value="&lt;div&gt;патч-панель 24 порта&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NhcDqB4aRzfar5cejF2m-64" value="&lt;div&gt;органайзер&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NhcDqB4aRzfar5cejF2m-65" value="&lt;div&gt;коммутатор eltex MES2424B&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="200" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
